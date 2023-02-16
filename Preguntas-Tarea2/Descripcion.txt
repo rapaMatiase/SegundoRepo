@@ -1,0 +1,5 @@
+Cada alumno en su rama debe crear un archivo llamado pregunta, y escribir una pregunta. Subi este archivo al repositorio en Github.
+
+Luego debe actulizar su repositorio local (git pull) y entrar a las ramas de cada uno de sus compañeros y contestar la pregunta que dejo este en el archivo llamado "pregunta"; hacer commit y subir su respuesta.
+
+Como todos van a estar contestando preguntas en los mismos archivos, deben tener cuidado de no borrar las respuestas de otros.
