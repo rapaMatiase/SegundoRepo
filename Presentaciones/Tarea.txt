@@ -1,5 +1,0 @@
-En esta carpeta cada colaborador debe crear un archvio con su nombre de github, y dentro de este archvio presentarse con sus compañeros.
-
-Nombre, profesion, edad, comida favorita, ect. No mas de 2 o 3 lineas.
-
-Hacer push, y si salta error, hacer el pull, resolver conflictos y volver a hacer push.
