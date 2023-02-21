@@ -2,3 +2,4 @@
 
 Freddy: Sí, estudio C#
 Evelyn: JavaScript 
+Damian: Actualmente BD SQL y mySQL
