@@ -2,3 +2,4 @@
 
 
 Estudio .NET (Freddy)
+Actualmente estoy aprendiendo SQL y mySQL (Damian)
