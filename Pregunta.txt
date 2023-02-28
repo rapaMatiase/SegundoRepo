@@ -3,3 +3,4 @@
 
 Estudio .NET (Freddy)
 Actualmente estoy aprendiendo SQL y mySQL (Damian)
+Estoy en la carrera de Front-end, actualmente cursando ReactJS (Oscar)
